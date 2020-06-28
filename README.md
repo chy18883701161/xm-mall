@@ -1,8 +1,6 @@
 ### 介绍
 xm-mall是基于springboot搭建的网上商城，响应式
 
-项目地址：[https://github.com/chy18883701161/xm-mall](https://github.com/chy18883701161/blog)
-&nbsp;
 前端技术：html、css、js、jq、bootstrap
 后台技术：springboot、thymeleaf、mybatis、mysql、lombok
 &nbsp;
